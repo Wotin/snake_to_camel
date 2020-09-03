@@ -1,5 +1,3 @@
-package com.wotin.geniustest
-
 import java.util.*
 
 fun main() {
